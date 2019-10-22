@@ -1,6 +1,6 @@
 package com.zipcodewilmington.scientificcalculator;
 
-public class CalculatorMethods {
+public class CoreMethods {
 
     //addition
     public double calcAdd(double a, double b) {return a + b;}
